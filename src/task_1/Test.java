@@ -12,11 +12,5 @@ public class Test {
         phone1.receiveCall("Alex", 321);
         phone2.sendMessage(654, 987, 135, 246, 951);
 
-
-
-
-
-
-
     }
 }
